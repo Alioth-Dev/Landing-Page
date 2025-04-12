@@ -84,3 +84,48 @@ a {
     border-radius: 5px;
     margin-top: 15px;
 }
+
+.featured-section {
+    height: 460px;
+    background-color: #fff;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.info-text {
+    text-align: center;
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+    margin-top: 45px;
+    margin-bottom: 45px;
+}
+
+.img-info img {
+    width: 180px;
+    height: 180px;
+    border-radius: 10px;
+    border: #3882F6 solid 4px;
+}
+
+.img-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 46px;
+    margin-right: 10px;
+}
+
+.gallery {
+    display: flex;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.gallery p {
+    text-align: center;
+    color: #656f7a;
+    margin-top: 12px;
+    font-size: 18px;
+    font-weight: 400;
+}
