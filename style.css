@@ -129,3 +129,30 @@ a {
     font-size: 18px;
     font-weight: 400;
 }
+
+.quote-section {
+    height: 420px;
+    background-color: #e5e7eb;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+    color: #1f2937;
+    padding-right: 135px;
+    padding-left: 135px;
+}
+
+.wrapper {
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+
+.credit {
+    font-size: 25px;
+    margin-left: 670px;
+    font-weight: 700;
+}
